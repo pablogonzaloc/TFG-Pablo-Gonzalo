@@ -33,6 +33,11 @@ Data set final después de limpieza se adjunta en el repositorio
 
 # El codigo se adjunta en el repositorio
 
+# Modelos: 
+
+ARIMA 
+
+Medias móviles
 
 # Autor:
 Pablo Gonzalo Casero
