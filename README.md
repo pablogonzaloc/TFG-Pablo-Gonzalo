@@ -5,9 +5,23 @@ El proyecto analiza la transformación del parque automovilístico europeo duran
 
 Los datasets utilizados provienen de fuentes oficiales europeas:
 
-Eurostat: Datos del parque automovilístico por tipo de motorización, PIB per cápita y precios de electricidad
-European Alternative Fuels Observatory: Infraestructura de recarga (obtenido mediante web scraping)
+Parque Automovilístico por Motorización
+Fuente: Eurostat - Passenger cars by type of motor energy
+Contenido: Número de vehículos por tipo de combustible (2013-2023)
 
+PIB per cápita
+Fuente: Eurostat - Real GDP per capita
+Contenido: Indicadores económicos por país
+
+Infraestructura de Recarga
+Fuente: European Alternative Fuels Observatory
+Contenido: Puntos de recarga eléctrica e hidrógeno (obtenido mediante web scraping con Instant Data Scraper)
+
+Precio de Electricidad
+Fuente: Eurostat
+Contenido: Precios medios anuales €/kWh por país
+
+Data set final después de limpieza:
 [Dataset TFG V2.xlsx](https://github.com/user-attachments/files/20229235/Dataset.TFG.V2.xlsx)
 
 El codigo es: 
